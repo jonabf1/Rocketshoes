@@ -1,0 +1,127 @@
+{
+  "stock": [
+    {
+      "id": 1,
+      "amount": 3
+    },
+    {
+      "id": 2,
+      "amount": 5
+    },
+    {
+      "id": 3,
+      "amount": 2
+    },
+    {
+      "id": 4,
+      "amount": 1
+    },
+    {
+      "id": 5,
+      "amount": 5
+    },
+    {
+      "id": 6,
+      "amount": 10
+    },
+    {
+      "id": 7,
+      "amount": 10
+    },
+    {
+      "id": 8,
+      "amount": 0
+    },
+    {
+      "id": 9,
+      "amount": 1
+    },
+    {
+      "id": 10,
+      "amount": 12
+    },
+    {
+      "id": 11,
+      "amount": 4
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Tênis de Caminhada Leve Confortável",
+      "price": 179.9,
+      "preview1": "https://static.netshoes.com.br/produtos/tenis-venetto-casual-caminhada-leve-confortavel-masculino/06/EPL-0186-006/EPL-0186-006_zoom1.jpg?ims=120x",
+      "preview2": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis1.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Tênis Olympikus Dynamic Masculino - Preto e Vermelho",
+      "price": 199.90,
+      "preview1": "https://static.netshoes.com.br/produtos/tenis-olympikus-dynamic-masculino/02/D22-0697-002/D22-0697-002_zoom1.jpg?ims=120x",
+      "preview2":"https://static.netshoes.com.br/produtos/tenis-olympikus-dynamic-masculino/02/D22-0697-002/D22-0697-002_zoom2.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Tênis Everlast Intense Feminino - Roxo",
+      "price": 249.9,
+      "preview1": "https://static.netshoes.com.br/produtos/tenis-everlast-intense-feminino/98/AXB-0558-198/AXB-0558-198_zoom1.jpg",
+      "preview2":"https://static.netshoes.com.br/produtos/tenis-everlast-intense-feminino/98/AXB-0558-198/AXB-0558-198_zoom3.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Tênis Everlast Intense Feminino - Roxo",
+      "price": 370.00,
+      "preview1": "https://static.netshoes.com.br/produtos/tenis-reebok-fusion-flexwave-masculino/02/D19-3658-002/D19-3658-002_zoom2.jpg?ims=120x",
+      "preview2":"https://static.netshoes.com.br/produtos/tenis-reebok-fusion-flexwave-masculino/02/D19-3658-002/D19-3658-002_zoom1.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Bota Coturno Cano Alto Hardcore - Mostarda",
+      "price": 449.9,
+      "preview1": "https://static.netshoes.com.br/produtos/bota-coturno-cano-alto-hardcore/24/G14-0125-224/G14-0125-224_zoom1.jpg",
+      "preview2":"https://static.netshoes.com.br/produtos/bota-coturno-cano-alto-hardcore/24/G14-0125-224/G14-0125-224_zoom2.jpg?ims=120x"
+    },
+    {
+      "id": 5,
+      "title": "Tênis Capricho Lanai Fun",
+      "price": 79.9,
+      "preview1": "https://static.netshoes.com.br/produtos/tenis-capricho-lanai-fun/26/F71-0110-326/F71-0110-326_zoom1.jpg",
+      "preview2":"https://static.netshoes.com.br/produtos/tenis-capricho-lanai-fun/98/F71-0110-298/F71-0110-298_zoom2.jpg?ims=120x"
+    },
+    {
+      "id": 6,
+      "title": "Tênis Mizuno Atoms Masculino",
+      "price": 199.99,
+      "preview1": "https://static.netshoes.com.br/produtos/tenis-mizuno-atoms-masculino/18/D16-4466-118/D16-4466-118_zoom1.jpg",
+      "preview2":"https://static.netshoes.com.br/produtos/tenis-mizuno-atoms-masculino/18/D16-4466-118/D16-4466-118_zoom2.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Tênis Mizuno Ezrun 2 Feminino",
+      "price": 149.9,
+      "preview1": "https://static.netshoes.com.br/produtos/tenis-mizuno-ezrun-2-feminino/08/D16-4872-008/D16-4872-008_zoom1.jpg",
+      "preview2":"https://static.netshoes.com.br/produtos/tenis-mizuno-ezrun-2-feminino/08/D16-4872-008/D16-4872-008_zoom3.jpg?ims=120x"
+    },
+    {
+      "id": 11,
+      "title": "Tênis Nike Revolution 5 Masculino - Vermelho",
+      "price": 229.9,
+      "preview1": "https://static.netshoes.com.br/produtos/tenis-nike-revolution-5-masculino/56/HZM-1731-056/HZM-1731-056_zoom1.jpg",
+      "preview2":"https://static.netshoes.com.br/produtos/tenis-nike-revolution-5-masculino/56/HZM-1731-056/HZM-1731-056_zoom2.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Tênis Nike Shox Nz Eu Masculino - Preto",
+      "price": 409.99,
+      "preview1": "https://static.netshoes.com.br/produtos/tenis-nike-shox-nz-eu-masculino/14/D12-9970-014/D12-9970-014_zoom1.jpg",
+      "preview2":"https://static.netshoes.com.br/produtos/tenis-nike-shox-nz-eu-masculino/14/D12-9970-014/D12-9970-014_zoom2.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Chuteira Futsal Nike Phantom Vision Academy DF IC - Cinza e Preto",
+      "price": 529.99,
+      "preview1": "https://static.netshoes.com.br/produtos/chuteira-futsal-nike-phantom-vision-academy-df-ic/28/HZM-0008-128/HZM-0008-128_zoom1.jpg",
+      "preview2":"https://static.netshoes.com.br/produtos/chuteira-futsal-nike-phantom-vision-academy-df-ic/28/HZM-0008-128/HZM-0008-128_zoom2.jpg"
+    }
+  ]
+}
