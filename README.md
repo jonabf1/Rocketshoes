@@ -1,8 +1,6 @@
-<p align="center">
-  <img src="src/assets/logo.svg" width="120px"/>
-  </p>
-  
-  <h1 align="center">RocketShoes</h1>
+<h1 align="center">
+  <img src="src/assets/logo2.svg" width="400px"/>
+  </h1>
   
 ### :rocket: About
 This project had the main objective of applying the flux, redux and redux saga architecture
@@ -10,7 +8,8 @@ This project had the main objective of applying the flux, redux and redux saga a
 ### :rocket: How install
 
 - yarn install (install dependencies)
-- json-server server.json -p [PORT] (to open the server)
+- npm install -g json-server
+- json-server server.json -p PORT (to open the server)
 - yarn start (to open the app web)
 
 ### :rocket: Dependencies used
@@ -21,7 +20,7 @@ This project had the main objective of applying the flux, redux and redux saga a
 - polished
 - proptypes
 - react
-- reat-dom
+- react-dom
 - reacticons
 - reactredux
 - react-router-dom
@@ -31,18 +30,18 @@ This project had the main objective of applying the flux, redux and redux saga a
 - reactotronredux
 - reactotron-redux-saga
 - redux
-- redu-saga
+- redux-saga
 - styled-compnents  
 
 #### :rocket: Final result 
 
 <p align="center">
-<img src="src/assets/rocketshoes.gif" alt="gif"/>
+<img src="src/assets/Rocketshoes.gif" alt="gif"/>
 </p>
 
 <hr/>
 
 <p align="center">
-Feito com ♥ by <a href="https://www.linkedin.com/in/jonathan-barros-franco">Jonathan</a>
+Made with ♥ by <a href="https://www.linkedin.com/in/jonathan-barros-franco">Jonathan</a>
 </p>
 

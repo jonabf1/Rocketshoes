@@ -44,8 +44,10 @@ export const ProductTable = styled.table`
 
   .promotion {
     display: flex;
+
     span {
       margin-right: 1rem;
+
       &:first-child {
         text-decoration: line-through;
       }
